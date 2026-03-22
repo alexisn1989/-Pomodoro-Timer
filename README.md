@@ -16,7 +16,7 @@ and long breaks — while tracking your progress with checkmarks.
 🎨 Beautiful tomato themed UI
 
 🖥️ Screenshot
-[<img width="480" height="654" alt="pomodore" src="https://github.com/user-attachments/assets/9f411ee7-4e6a-4aa1-8296-2f4433c20150" />
+<img width="480" height="654" alt="pomodore" src="https://github.com/user-attachments/assets/9f411ee7-4e6a-4aa1-8296-2f4433c20150" />
 
 ⏰ Timer Schedule
 Work 25min → Break 5min → Work 25min → Break 5min →
